@@ -5,6 +5,6 @@ public class HelloNumber {
             System.out.println(x);
             x = x + 1;
         }
-        
+
     }
 }
